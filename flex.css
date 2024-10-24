@@ -1,0 +1,20 @@
+#content {
+  display: flex;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+}
+
+.green {
+  background-color: greenyellow;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+}
